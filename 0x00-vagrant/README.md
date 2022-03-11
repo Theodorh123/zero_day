@@ -1,1 +1,0 @@
-Vagrant on local computer
